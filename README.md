@@ -19,8 +19,10 @@ Before running the application, ensure you have the following prerequisites:
 Follow these steps to install and run the application:
 
 1. Clone the repository:
+```
+git clone https://github.com/raghavnaswa-uw/receipt-processor
+```
 
-git clone <repository_url>
 2. Build the project using Maven:
 
 ```
